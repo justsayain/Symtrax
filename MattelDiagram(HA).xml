@@ -1,4 +1,4 @@
-<mxfile modified="2019-10-30T20:46:21.625Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="XFgfBrcYZ6mn0oFBtt0K" version="12.1.9" type="github" pages="1">
+<mxfile modified="2019-10-30T20:47:28.516Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="YwWqPG6yG_DyfkEGhHy-" version="12.1.9" type="github" pages="1">
   <diagram id="olj5QXGCt47i8weV5h-P" name="Page-1">
     <mxGraphModel dx="1205" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -108,6 +108,9 @@
             <mxPoint x="960" y="540" as="sourcePoint"/>
             <mxPoint x="960" y="610" as="targetPoint"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="8o5wrZ5CJyNz2xzpPZMY-29" value="Load Balancing Out Qs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="461" y="404.5" width="131" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
