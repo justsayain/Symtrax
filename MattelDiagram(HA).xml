@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.1.9" pages="1" etag="Zi6qxFzlk739Huwr5uv0" agent="Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; rv:11.0) like Gecko" host="www.draw.io" modified="2019-11-01T21:59:30.880Z">
+<mxfile type="github" version="12.1.9" pages="1" etag="v7cOgA6aVkzt4O2rQwc7" agent="Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; rv:11.0) like Gecko" host="www.draw.io" modified="2019-11-01T23:02:43.311Z">
   <diagram name="Page-1" id="olj5QXGCt47i8weV5h-P">
     <mxGraphModel shadow="0" math="0" pageHeight="850" pageWidth="1100" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" grid="1" dy="794" dx="1463">
       <root>
@@ -78,14 +78,6 @@
         <mxCell value="iSeries" id="TRrNXpbmDpDQfJi7wc67-11" parent="1" vertex="1" style="text;html=1;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;strokeColor=#000000;fillColor=#e0e0e0;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;shadow=0;glass=0;labelBackgroundColor=none;fontSize=20;fontColor=#000000;">
           <mxGeometry as="geometry" height="28.826470588235285" width="106.89501312335959" y="424.53823529411767" x="199.96850393700743"/>
         </mxCell>
-        <mxCell id="PMIPqBmizRpJi3H_wW3b-20" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;startArrow=classic;startFill=1;dashed=1;strokeWidth=2;strokeColor=#d6b656;fillColor=#fff2cc;" edge="1" source="8o5wrZ5CJyNz2xzpPZMY-1" target="8o5wrZ5CJyNz2xzpPZMY-7">
-          <mxGeometry as="geometry" relative="1"/>
-        </mxCell>
-        <mxCell value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Failover&lt;/font&gt;" id="PMIPqBmizRpJi3H_wW3b-21" parent="PMIPqBmizRpJi3H_wW3b-20" vertex="1" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=none;fontSize=16;fontColor=#FFD966;" connectable="0">
-          <mxGeometry as="geometry" y="-33" x="0.0001" relative="1">
-            <mxPoint as="offset" y="55.5" x="33.5"/>
-          </mxGeometry>
-        </mxCell>
         <mxCell value="" id="8o5wrZ5CJyNz2xzpPZMY-5" parent="1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;strokeColor=#00CCCC;">
           <mxGeometry as="geometry" height="170" width="180" y="620" x="549"/>
         </mxCell>
@@ -157,6 +149,14 @@
         </mxCell>
         <mxCell value="DNS Requests" id="PCndSj-zWA_JOFXcChFn-1" parent="1" vertex="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;rotation=-90;">
           <mxGeometry as="geometry" height="40" width="131" y="450" x="742.5"/>
+        </mxCell>
+        <mxCell id="PMIPqBmizRpJi3H_wW3b-20" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;startArrow=classic;startFill=1;dashed=1;strokeWidth=2;strokeColor=#d6b656;fillColor=#fff2cc;" edge="1" source="8o5wrZ5CJyNz2xzpPZMY-1" target="8o5wrZ5CJyNz2xzpPZMY-7">
+          <mxGeometry as="geometry" relative="1"/>
+        </mxCell>
+        <mxCell value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Failover&lt;/font&gt;" id="PMIPqBmizRpJi3H_wW3b-21" parent="PMIPqBmizRpJi3H_wW3b-20" vertex="1" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=none;fontSize=16;fontColor=#FFD966;" connectable="0">
+          <mxGeometry as="geometry" y="-33" x="0.0001" relative="1">
+            <mxPoint as="offset" y="55.5" x="33.5"/>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
